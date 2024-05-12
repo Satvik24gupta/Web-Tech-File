@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <name>Guset</name>
+        <enrollment>00120802721</enrollment>
+        <mobile_number>9876543210</mobile_number>
+        <email>guest@gmail.com</email>
+    </student>
+    <student>
+        <name>Guest2</name>
+        <enrollment>01220802721</enrollment>
+        <mobile_number>8765432109</mobile_number>
+        <email>guest2@gmail.com</email>
+    </student>
+    <!-- Add more student entries as needed -->
+</students>
